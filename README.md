@@ -28,6 +28,8 @@ Online judge system - https://judge.softuni.org/ ⚖
 
 ➡ [Exam Preparation 2](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/tree/main/exam_preparation_2)
 
+➡ [Django project]()
+
 ## Theory Тests
 ➡ [Basic Syntax TEST](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/Basic%20Syntax.md)
 
